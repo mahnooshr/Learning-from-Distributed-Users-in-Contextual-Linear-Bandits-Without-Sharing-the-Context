@@ -91,11 +91,11 @@ Set the kernel to the `.venv` environment.
 
 #### Covertype – Log-log Regret Scaling
 
-![Covertype log-log regret](imagess/covertype_fig2_regret_loglog.png)
+![Covertype log-log regret](images/covertype_fig2_regret_loglog.png)
 
 #### Cross-dataset Regret Comparison
 
-![Cross-dataset regret](imagess/cross_dataset_regret.png)
+![Cross-dataset regret](images/cross_dataset_regret.png)
 
 ### Cross-dataset
 
