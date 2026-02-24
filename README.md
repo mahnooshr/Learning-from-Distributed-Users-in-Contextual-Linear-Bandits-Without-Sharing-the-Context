@@ -87,6 +87,16 @@ Set the kernel to the `.venv` environment.
 | Fig 7 | Normalised regret R_t / √t |
 | Fig 8 | Summary bars: (a) regret comparison, (b) bits/round |
 
+### Example Figures
+
+#### Covertype – Log-log Regret Scaling
+
+![Covertype log-log regret](imagess/covertype_fig2_regret_loglog.png)
+
+#### Cross-dataset Regret Comparison
+
+![Cross-dataset regret](imagess/cross_dataset_regret.png)
+
 ### Cross-dataset
 
 - `cross_dataset_regret.png` — Grouped bar chart comparing regret across datasets
